@@ -1,0 +1,1 @@
+# ink-smc-rust
